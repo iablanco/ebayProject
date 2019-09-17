@@ -3,8 +3,8 @@ rootProject.name = 'test_project'
 assignProperty('appium_serverip', '127.0.0.1')
 assignProperty('appium_serverport', '5113')
 assignProperty('appium_agentport', '7100')
-assignProperty("device_name", 'Nexus_5X_API27')
-assignProperty("avd_name", 'Nexus_5X_API27')
+assignProperty("device_name", 'Nexus5XAPI28')
+assignProperty("avd_name", 'Nexus5XAPI28')
 //''Nexus_5X_API27')
 //Nexus5XAPI28
 
